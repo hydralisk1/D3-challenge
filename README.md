@@ -1,13 +1,16 @@
 # D3-challenge
-┌──────────────────────┐
-│   D3_data_journalism ├─── index.html
-└─┬────────────────────┘
-  │┌────────┐   ┌──────┐
-  └┤ assets ├─┬─┤ css  ├─┬─ d3Style.css
-   └────────┘ │ └──────┘ └─ style.css
-              │ ┌──────┐
-              ├─┤ data ├─── data.csv  : data file
-              │ └──────┘
-              │ ┌──────┐
-              └─┤  js  ├─┬─ app.js    : main script file
-                └──────┘ └─ d3-tip.js : d3.tip() script file
+
+* Main script
+    - D3_data_journalism/assets/js/app.js
+
+* d3.tip() script file
+    - D3_data_journalism/assets/js/d3-tip.js
+
+* CSS files
+    - D3_data_journalism/css/
+
+* HTML file
+    - D3_data_journalism/index.html
+
+* Data file
+    - D3_data_journalism/data/data.csv
